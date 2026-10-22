@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
+Full-stack developer based in Zanzibar, Tanzania. Co-founder of [Techmento](https://techmento.co.tz).
 
-<!--
-**ahmedissaothman/ahmedissaothman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+React · TypeScript · Next.js · Tailwind CSS · Node.js · Laravel · PostgreSQL · Flutter
 
-Here are some ideas to get you started:
+## Live work
+- [Motech Computers](https://motechcomputers.co.uk) – UK client website
+- [ZANROADS](https://zanroads.go.tz) – Zanzibar Roads Agency
+- [ZEC](https://zec.go.tz) – Zanzibar Electoral Commission
+- [Techmento](https://techmento.co.tz) – company website
+- [Ramin Tours](https://ramin-tours.co.tz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Client source code is confidential; live demos and code walkthroughs available on request._
+
+📧 ahmedissaothmanii@gmail.com
