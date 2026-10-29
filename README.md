@@ -11,6 +11,7 @@ React · TypeScript · Next.js · Vite · Tailwind CSS · Node.js · Laravel · 
 ## Live work
 
 - [ZARTSA](https://zartsa.go.tz) – Zanzibar Road Transport and Safety Authority (React, Vite, Laravel)
+- [ZANROADS](https://zanroads.go.tz) – Zanzibar Roads Agency (React, Node.js, PostgreSQL; backend hosting pending on the client's side)
 - [Motech Computers](https://motechcomputers.co.uk) – UK client website with booking system and admin portal (Next.js, Tailwind, Laravel)
 - [ZEC](https://zec.go.tz) – Zanzibar Electoral Commission
 - [Techmento](https://techmento.co.tz) – company website
